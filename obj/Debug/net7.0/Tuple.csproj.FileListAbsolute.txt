@@ -1,0 +1,14 @@
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\bin\Debug\net7.0\Tuple.exe
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\bin\Debug\net7.0\Tuple.deps.json
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\bin\Debug\net7.0\Tuple.runtimeconfig.json
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\bin\Debug\net7.0\Tuple.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\bin\Debug\net7.0\Tuple.pdb
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.AssemblyInfoInputs.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.AssemblyInfo.cs
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.csproj.CoreCompileInputs.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\refint\Tuple.dll
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.pdb
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\Tuple.genruntimeconfig.cache
+\\kings.internal\Students$\2018\jpang18\My Documents\Computer Science\Tuple\obj\Debug\net7.0\ref\Tuple.dll
